@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+
+    <listeners>
+        <listener class-name="api.utilities.ExtentReportManager"/>
+    </listeners>
+
+    <test verbose="2" preserve-order="true" name="C:/Test Engineer/IntelliJ WorkStation/REST-Assured Framework/src/test/java/api/test">
+        <classes>
+            <class name="api.test.DataDrivenUserTests">
+                <methods>
+                    <include name="testPostUser"/>
+                    <include name="testGetUserByUsername"/>
+                    <include name="testDeleteUserByUsername"/>
+                </methods>
+            </class>
+            <class name="api.test.UserTests">
+                <methods>
+                    <include name="testPostUser"/>
+                    <include name="testGetUserByUsername"/>
+                    <include name="testUpdateUserByUsername"/>
+                    <include name="testDeleteUserByUsername"/>
+                </methods>
+            </class>
+            <class name="api.test.UserTestsViaPropertiesFileApproach">
+                <methods>
+                    <include name="testPostUser"/>
+                    <include name="testGetUserByUsername"/>
+                    <include name="testUpdateUserByUsername"/>
+                    <include name="testDeleteUserByUsername"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

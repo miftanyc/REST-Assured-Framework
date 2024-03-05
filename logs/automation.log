@@ -1,0 +1,102 @@
+18:32:26.327 [main] INFO  api.test.DataDrivenUserTests - ********************* Creating User ***********************
+18:32:33.536 [main] INFO  api.test.DataDrivenUserTests - ********************* User Created ***********************
+18:32:33.592 [main] INFO  api.test.DataDrivenUserTests - ********************* Creating User ***********************
+18:32:34.734 [main] INFO  api.test.DataDrivenUserTests - ********************* User Created ***********************
+18:32:34.737 [main] INFO  api.test.DataDrivenUserTests - ********************* Creating User ***********************
+18:32:35.971 [main] INFO  api.test.DataDrivenUserTests - ********************* User Created ***********************
+18:32:35.979 [main] INFO  api.test.DataDrivenUserTests - ********************* Reading User ***********************
+18:32:37.099 [main] INFO  api.test.DataDrivenUserTests - ********************* User Info Displayed  ***********************
+18:32:37.101 [main] INFO  api.test.DataDrivenUserTests - ********************* Reading User ***********************
+18:32:38.095 [main] INFO  api.test.DataDrivenUserTests - ********************* User Info Displayed  ***********************
+18:32:38.098 [main] INFO  api.test.DataDrivenUserTests - ********************* Reading User ***********************
+18:32:38.932 [main] INFO  api.test.DataDrivenUserTests - ********************* User Info Displayed  ***********************
+18:32:38.934 [main] INFO  api.test.DataDrivenUserTests - ********************* Deleting User ***********************
+18:32:39.903 [main] INFO  api.test.DataDrivenUserTests - ********************* User Deleted ***********************
+18:32:39.905 [main] INFO  api.test.DataDrivenUserTests - ********************* Deleting User ***********************
+18:32:40.809 [main] INFO  api.test.DataDrivenUserTests - ********************* User Deleted ***********************
+18:32:40.811 [main] INFO  api.test.DataDrivenUserTests - ********************* Deleting User ***********************
+18:32:41.704 [main] INFO  api.test.DataDrivenUserTests - ********************* User Deleted ***********************
+18:32:41.892 [main] INFO  api.test.UserTests - ********************* Creating User ***********************
+18:32:42.665 [main] INFO  api.test.UserTests - ********************* User Created ***********************
+18:32:42.667 [main] INFO  api.test.UserTests - ********************* Reading User ***********************
+18:32:43.542 [main] INFO  api.test.UserTests - ********************* User Info Displayed  ***********************
+18:32:43.544 [main] INFO  api.test.UserTests - ********************* Updating User ***********************
+18:32:45.174 [main] INFO  api.test.UserTests - ********************* User Updated ***********************
+18:32:45.176 [main] INFO  api.test.UserTests - ********************* Deleting User ***********************
+18:32:46.143 [main] INFO  api.test.UserTests - ********************* User Deleted ***********************
+18:32:46.316 [main] INFO  api.test.UserTestsViaPropertiesFileApproach - ********************* Creating User ***********************
+18:32:47.203 [main] INFO  api.test.UserTestsViaPropertiesFileApproach - ********************* User Created ***********************
+18:32:47.206 [main] INFO  api.test.UserTestsViaPropertiesFileApproach - ********************* Reading User ***********************
+18:32:48.192 [main] INFO  api.test.UserTestsViaPropertiesFileApproach - ********************* User Info Displayed  ***********************
+18:32:48.199 [main] INFO  api.test.UserTestsViaPropertiesFileApproach - ********************* Updating User ***********************
+18:32:50.526 [main] INFO  api.test.UserTestsViaPropertiesFileApproach - ********************* User Updated ***********************
+18:32:50.529 [main] INFO  api.test.UserTestsViaPropertiesFileApproach - ********************* Deleting User ***********************
+18:32:51.392 [main] INFO  api.test.UserTestsViaPropertiesFileApproach - ********************* User Deleted ***********************
+19:15:49.107 [main] INFO  api.test.DataDrivenUserTests - ********************* Creating User ***********************
+19:15:53.138 [main] INFO  api.test.DataDrivenUserTests - ********************* User Created ***********************
+19:15:53.165 [main] INFO  api.test.DataDrivenUserTests - ********************* Creating User ***********************
+19:15:53.402 [main] INFO  api.test.DataDrivenUserTests - ********************* User Created ***********************
+19:15:53.405 [main] INFO  api.test.DataDrivenUserTests - ********************* Creating User ***********************
+19:15:53.637 [main] INFO  api.test.DataDrivenUserTests - ********************* User Created ***********************
+19:15:53.651 [main] INFO  api.test.DataDrivenUserTests - ********************* Reading User ***********************
+19:15:54.010 [main] INFO  api.test.DataDrivenUserTests - ********************* User Info Displayed  ***********************
+19:15:54.014 [main] INFO  api.test.DataDrivenUserTests - ********************* Reading User ***********************
+19:15:54.304 [main] INFO  api.test.DataDrivenUserTests - ********************* User Info Displayed  ***********************
+19:15:54.307 [main] INFO  api.test.DataDrivenUserTests - ********************* Reading User ***********************
+19:15:54.546 [main] INFO  api.test.DataDrivenUserTests - ********************* User Info Displayed  ***********************
+19:15:54.551 [main] INFO  api.test.DataDrivenUserTests - ********************* Deleting User ***********************
+19:15:54.753 [main] INFO  api.test.DataDrivenUserTests - ********************* User Deleted ***********************
+19:15:54.755 [main] INFO  api.test.DataDrivenUserTests - ********************* Deleting User ***********************
+19:15:54.924 [main] INFO  api.test.DataDrivenUserTests - ********************* User Deleted ***********************
+19:15:54.927 [main] INFO  api.test.DataDrivenUserTests - ********************* Deleting User ***********************
+19:15:55.090 [main] INFO  api.test.DataDrivenUserTests - ********************* User Deleted ***********************
+19:15:55.352 [main] INFO  api.test.UserTests - ********************* Creating User ***********************
+19:15:55.529 [main] INFO  api.test.UserTests - ********************* User Created ***********************
+19:15:55.533 [main] INFO  api.test.UserTests - ********************* Reading User ***********************
+19:15:55.734 [main] INFO  api.test.UserTests - ********************* User Info Displayed  ***********************
+19:15:55.737 [main] INFO  api.test.UserTests - ********************* Updating User ***********************
+19:15:56.018 [main] INFO  api.test.UserTests - ********************* User Updated ***********************
+19:15:56.021 [main] INFO  api.test.UserTests - ********************* Deleting User ***********************
+19:15:56.177 [main] INFO  api.test.UserTests - ********************* User Deleted ***********************
+19:15:56.222 [main] INFO  api.test.UserTestsViaPropertiesFileApproach - ********************* Creating User ***********************
+19:15:56.403 [main] INFO  api.test.UserTestsViaPropertiesFileApproach - ********************* User Created ***********************
+19:15:56.406 [main] INFO  api.test.UserTestsViaPropertiesFileApproach - ********************* Reading User ***********************
+19:15:56.636 [main] INFO  api.test.UserTestsViaPropertiesFileApproach - ********************* User Info Displayed  ***********************
+19:15:56.639 [main] INFO  api.test.UserTestsViaPropertiesFileApproach - ********************* Updating User ***********************
+19:15:56.913 [main] INFO  api.test.UserTestsViaPropertiesFileApproach - ********************* User Updated ***********************
+19:15:56.916 [main] INFO  api.test.UserTestsViaPropertiesFileApproach - ********************* Deleting User ***********************
+19:15:57.104 [main] INFO  api.test.UserTestsViaPropertiesFileApproach - ********************* User Deleted ***********************
+19:16:58.021 [main] INFO  api.test.DataDrivenUserTests - ********************* Creating User ***********************
+19:17:03.672 [main] INFO  api.test.DataDrivenUserTests - ********************* User Created ***********************
+19:17:03.695 [main] INFO  api.test.DataDrivenUserTests - ********************* Creating User ***********************
+19:17:03.999 [main] INFO  api.test.DataDrivenUserTests - ********************* User Created ***********************
+19:17:04.001 [main] INFO  api.test.DataDrivenUserTests - ********************* Creating User ***********************
+19:17:04.228 [main] INFO  api.test.DataDrivenUserTests - ********************* User Created ***********************
+19:17:04.238 [main] INFO  api.test.DataDrivenUserTests - ********************* Reading User ***********************
+19:17:04.573 [main] INFO  api.test.DataDrivenUserTests - ********************* User Info Displayed  ***********************
+19:17:04.575 [main] INFO  api.test.DataDrivenUserTests - ********************* Reading User ***********************
+19:17:04.858 [main] INFO  api.test.DataDrivenUserTests - ********************* User Info Displayed  ***********************
+19:17:04.861 [main] INFO  api.test.DataDrivenUserTests - ********************* Reading User ***********************
+19:17:05.147 [main] INFO  api.test.DataDrivenUserTests - ********************* User Info Displayed  ***********************
+19:17:05.150 [main] INFO  api.test.DataDrivenUserTests - ********************* Deleting User ***********************
+19:17:05.320 [main] INFO  api.test.DataDrivenUserTests - ********************* User Deleted ***********************
+19:17:05.323 [main] INFO  api.test.DataDrivenUserTests - ********************* Deleting User ***********************
+19:17:05.524 [main] INFO  api.test.DataDrivenUserTests - ********************* User Deleted ***********************
+19:17:05.529 [main] INFO  api.test.DataDrivenUserTests - ********************* Deleting User ***********************
+19:17:05.706 [main] INFO  api.test.DataDrivenUserTests - ********************* User Deleted ***********************
+19:17:06.023 [main] INFO  api.test.UserTests - ********************* Creating User ***********************
+19:17:06.236 [main] INFO  api.test.UserTests - ********************* User Created ***********************
+19:17:06.246 [main] INFO  api.test.UserTests - ********************* Reading User ***********************
+19:17:06.576 [main] INFO  api.test.UserTests - ********************* User Info Displayed  ***********************
+19:17:06.579 [main] INFO  api.test.UserTests - ********************* Updating User ***********************
+19:17:07.000 [main] INFO  api.test.UserTests - ********************* User Updated ***********************
+19:17:07.004 [main] INFO  api.test.UserTests - ********************* Deleting User ***********************
+19:17:07.182 [main] INFO  api.test.UserTests - ********************* User Deleted ***********************
+19:17:07.284 [main] INFO  api.test.UserTestsViaPropertiesFileApproach - ********************* Creating User ***********************
+19:17:07.489 [main] INFO  api.test.UserTestsViaPropertiesFileApproach - ********************* User Created ***********************
+19:17:07.493 [main] INFO  api.test.UserTestsViaPropertiesFileApproach - ********************* Reading User ***********************
+19:17:07.796 [main] INFO  api.test.UserTestsViaPropertiesFileApproach - ********************* User Info Displayed  ***********************
+19:17:07.800 [main] INFO  api.test.UserTestsViaPropertiesFileApproach - ********************* Updating User ***********************
+19:17:08.111 [main] INFO  api.test.UserTestsViaPropertiesFileApproach - ********************* User Updated ***********************
+19:17:08.115 [main] INFO  api.test.UserTestsViaPropertiesFileApproach - ********************* Deleting User ***********************
+19:17:08.399 [main] INFO  api.test.UserTestsViaPropertiesFileApproach - ********************* User Deleted ***********************
